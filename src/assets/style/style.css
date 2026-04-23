@@ -1,0 +1,25 @@
+@import 'fonts.css';
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'RM';
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.container{
+    max-width: 1140px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+button{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
